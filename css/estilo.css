@@ -1,0 +1,19 @@
+body {background-color: #F7F9F9;}
+.tituloprincipal {font-size: xxx-large;color: red;text-align:center;text-decoration:underline;font-family:serif;}
+h2 {background-color: #E53935; color: white;font-size: xx-large;text-decoration: underline;text-align:center;}
+p {text-align: center;}
+h1{text-align: center; color: red; text-decoration: underline;}
+ul{text-align: center;}
+ol{text-align: center;}
+.imagenprincipal {text-align: center;}
+p {font-family: cursive;}
+.Recetassimilares {text-align: left;}
+
+.iconowsp {position: fixed;
+  top: 75%;
+  right: 0%;
+  width: 100px;}
+
+.redes {text-align: left;}
+.iconoig {width: 45px; height: 40px;}
+.iconofb{width: 45px; height: 40px;}
