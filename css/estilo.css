@@ -1,31 +1,54 @@
-body {background-color: #F7F9F9;}
-.tituloprincipal {font-size: xxx-large;color: red;text-align:center;text-decoration:underline;font-family:serif;}
-h2 {background-color: #E53935; color: white;font-size: xx-large;text-decoration: underline;text-align:center;}
-p {text-align: center;}
-h1{text-align: center; color: red; text-decoration: underline;}
-.listas:hover{font-size: 30px;}
+body {background-color: #FFFFFF;}
+
+.tituloprincipal {font-size: 7em;color: white;text-align:center;font-family:serif;}
+h2 {color: white;font-size: 3em;text-decoration: underline;text-align:center;}
+
+header{background-color: #E53935; height: 25%;}
+
+p {text-align: center;font-size: 2em;}
+.listas{text-align: center; color: red; text-decoration: underline;font-size: 2em;}
+.listas:hover{color:#A3E4D7;}
 ul{text-align: center;}
 ol{text-align: center;}
+
 .imagenprincipal {text-align: center;}
 p {font-family: cursive;}
 
-.Recetassimilares {text-align: left;}
+.Recetassimilares {text-align: left;font-size: 2em;}
 .empanadassimilares:hover{color: red;}
+.Provinciadecordoba{text-align: left;font-size: 2em;}
+.imagenprincipal:hover{}
 
-.imagenprincipal:hover{border: 5px solid black;}
 
-.contactos {color: red;
-text-decoration: underline;
-font-size: xx-large;}
-.contactos:hover{font-size: 35px}
+
+nav ul li {display:inline-block;margin: 2%;}
+.contactos {color: red;font-size: xx-large;}
+.contactos:hover{color:#A3E4D7;}
+
+
+section{background-color: #EC7063;
+height: 55vh;
+display: flex;justify-content: space-around;}
+.imagenprincipal{
+width: 30%;
+height: 150px;
+}
+
+.imagenprincipal{width: 100%;height: 100%}
+
+
+
 
 
 
 .iconowsp {position: fixed;
   top: 75%;
   right: 0%;
-  width: 100px;}
+  width: 80px;}
 
+
+footer{display: flex; justify-content: space-around;background-color: white;}
 .redes {text-align: left;}
-.iconoig {width: 45px; height: 40px;}
-.iconofb{width: 45px; height: 40px;}
+.iconoig {width: 80px;}
+.iconofb{width: 55px;}
+.iconoyt {width: 65px;}
